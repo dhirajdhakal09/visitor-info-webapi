@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lwSWyAoCGsoHrpHCwi9WrNLzG2qntaiIIynPnUVQpRZQ3aIAIWETar1QhmTJWyugw5QszZCcMb3I8tfxZEfXEQ==",
+  "success": true,
+  "projectFilePath": "D:\\guard-checkin-app\\webapi\\Visitor.Domain\\Visitor.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Acer\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

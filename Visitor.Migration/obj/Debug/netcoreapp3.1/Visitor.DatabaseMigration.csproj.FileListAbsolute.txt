@@ -1,0 +1,15 @@
+D:\guard-checkin-app\webapi\Visitor.Migration\bin\Debug\netcoreapp3.1\Visitor.DatabaseMigration.deps.json
+D:\guard-checkin-app\webapi\Visitor.Migration\bin\Debug\netcoreapp3.1\Visitor.DatabaseMigration.runtimeconfig.json
+D:\guard-checkin-app\webapi\Visitor.Migration\bin\Debug\netcoreapp3.1\Visitor.DatabaseMigration.runtimeconfig.dev.json
+D:\guard-checkin-app\webapi\Visitor.Migration\bin\Debug\netcoreapp3.1\Visitor.DatabaseMigration.dll
+D:\guard-checkin-app\webapi\Visitor.Migration\bin\Debug\netcoreapp3.1\Visitor.DatabaseMigration.pdb
+D:\guard-checkin-app\webapi\Visitor.Migration\bin\Debug\netcoreapp3.1\Visitor.Domain.dll
+D:\guard-checkin-app\webapi\Visitor.Migration\bin\Debug\netcoreapp3.1\Visitor.Domain.pdb
+D:\guard-checkin-app\webapi\Visitor.Migration\obj\Debug\netcoreapp3.1\Visitor.DatabaseMigration.csprojAssemblyReference.cache
+D:\guard-checkin-app\webapi\Visitor.Migration\obj\Debug\netcoreapp3.1\Visitor.DatabaseMigration.csproj.CoreCompileInputs.cache
+D:\guard-checkin-app\webapi\Visitor.Migration\obj\Debug\netcoreapp3.1\Visitor.DatabaseMigration.AssemblyInfoInputs.cache
+D:\guard-checkin-app\webapi\Visitor.Migration\obj\Debug\netcoreapp3.1\Visitor.DatabaseMigration.AssemblyInfo.cs
+D:\guard-checkin-app\webapi\Visitor.Migration\obj\Debug\netcoreapp3.1\Visitor.DatabaseMigration.csproj.CopyComplete
+D:\guard-checkin-app\webapi\Visitor.Migration\obj\Debug\netcoreapp3.1\Visitor.DatabaseMigration.dll
+D:\guard-checkin-app\webapi\Visitor.Migration\obj\Debug\netcoreapp3.1\Visitor.DatabaseMigration.pdb
+D:\guard-checkin-app\webapi\Visitor.Migration\obj\Debug\netcoreapp3.1\Visitor.DatabaseMigration.genruntimeconfig.cache

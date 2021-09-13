@@ -1,0 +1,17 @@
+D:\guard-checkin-app\webapi\Prototype.Domain\bin\Debug\netcoreapp3.1\Visitor.Domain.deps.json
+D:\guard-checkin-app\webapi\Prototype.Domain\bin\Debug\netcoreapp3.1\Visitor.Domain.dll
+D:\guard-checkin-app\webapi\Prototype.Domain\bin\Debug\netcoreapp3.1\Visitor.Domain.pdb
+D:\guard-checkin-app\webapi\Prototype.Domain\obj\Debug\netcoreapp3.1\Visitor.Domain.csproj.CoreCompileInputs.cache
+D:\guard-checkin-app\webapi\Prototype.Domain\obj\Debug\netcoreapp3.1\Visitor.Domain.AssemblyInfoInputs.cache
+D:\guard-checkin-app\webapi\Prototype.Domain\obj\Debug\netcoreapp3.1\Visitor.Domain.AssemblyInfo.cs
+D:\guard-checkin-app\webapi\Prototype.Domain\obj\Debug\netcoreapp3.1\Visitor.Domain.dll
+D:\guard-checkin-app\webapi\Prototype.Domain\obj\Debug\netcoreapp3.1\Visitor.Domain.pdb
+D:\guard-checkin-app\webapi\Visitor.Domain\bin\Debug\netcoreapp3.1\Visitor.Domain.deps.json
+D:\guard-checkin-app\webapi\Visitor.Domain\bin\Debug\netcoreapp3.1\Visitor.Domain.dll
+D:\guard-checkin-app\webapi\Visitor.Domain\bin\Debug\netcoreapp3.1\Visitor.Domain.pdb
+D:\guard-checkin-app\webapi\Visitor.Domain\obj\Debug\netcoreapp3.1\Visitor.Domain.AssemblyInfoInputs.cache
+D:\guard-checkin-app\webapi\Visitor.Domain\obj\Debug\netcoreapp3.1\Visitor.Domain.AssemblyInfo.cs
+D:\guard-checkin-app\webapi\Visitor.Domain\obj\Debug\netcoreapp3.1\Visitor.Domain.dll
+D:\guard-checkin-app\webapi\Visitor.Domain\obj\Debug\netcoreapp3.1\Visitor.Domain.pdb
+D:\guard-checkin-app\webapi\Visitor.Domain\obj\Debug\netcoreapp3.1\Visitor.Domain.csprojAssemblyReference.cache
+D:\guard-checkin-app\webapi\Visitor.Domain\obj\Debug\netcoreapp3.1\Visitor.Domain.csproj.CoreCompileInputs.cache

@@ -1,0 +1,13 @@
+D:\Prototype\Prototype.Core\bin\Debug\netcoreapp3.1\Prototype.Core.deps.json
+D:\Prototype\Prototype.Core\bin\Debug\netcoreapp3.1\Prototype.Core.dll
+D:\Prototype\Prototype.Core\obj\Debug\netcoreapp3.1\Prototype.Core.AssemblyInfoInputs.cache
+D:\Prototype\Prototype.Core\obj\Debug\netcoreapp3.1\Prototype.Core.AssemblyInfo.cs
+D:\Prototype\Prototype.Core\bin\Debug\netcoreapp3.1\Prototype.Core.pdb
+D:\Prototype\Prototype.Core\bin\Debug\netcoreapp3.1\Prototype.DatabaseMigration.dll
+D:\Prototype\Prototype.Core\bin\Debug\netcoreapp3.1\Prototype.Domain.dll
+D:\Prototype\Prototype.Core\bin\Debug\netcoreapp3.1\Prototype.DatabaseMigration.pdb
+D:\Prototype\Prototype.Core\bin\Debug\netcoreapp3.1\Prototype.Domain.pdb
+D:\Prototype\Prototype.Core\obj\Debug\netcoreapp3.1\Prototype.Core.csprojAssemblyReference.cache
+D:\Prototype\Prototype.Core\obj\Debug\netcoreapp3.1\Prototype.Core.csproj.CopyComplete
+D:\Prototype\Prototype.Core\obj\Debug\netcoreapp3.1\Prototype.Core.dll
+D:\Prototype\Prototype.Core\obj\Debug\netcoreapp3.1\Prototype.Core.pdb

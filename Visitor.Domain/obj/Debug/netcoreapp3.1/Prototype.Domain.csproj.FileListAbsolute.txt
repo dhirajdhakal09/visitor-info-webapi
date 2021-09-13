@@ -1,0 +1,8 @@
+D:\Prototype\Prototype.Domain\bin\Debug\netcoreapp3.1\Prototype.Domain.deps.json
+D:\Prototype\Prototype.Domain\bin\Debug\netcoreapp3.1\Prototype.Domain.dll
+D:\Prototype\Prototype.Domain\bin\Debug\netcoreapp3.1\Prototype.Domain.pdb
+D:\Prototype\Prototype.Domain\obj\Debug\netcoreapp3.1\Prototype.Domain.AssemblyInfoInputs.cache
+D:\Prototype\Prototype.Domain\obj\Debug\netcoreapp3.1\Prototype.Domain.AssemblyInfo.cs
+D:\Prototype\Prototype.Domain\obj\Debug\netcoreapp3.1\Prototype.Domain.dll
+D:\Prototype\Prototype.Domain\obj\Debug\netcoreapp3.1\Prototype.Domain.pdb
+D:\Prototype\Prototype.Domain\obj\Debug\netcoreapp3.1\Prototype.Domain.csprojAssemblyReference.cache

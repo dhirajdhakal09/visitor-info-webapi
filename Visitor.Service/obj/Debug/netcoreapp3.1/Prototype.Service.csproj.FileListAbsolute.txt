@@ -1,0 +1,15 @@
+D:\Prototype\Prototype.Service\bin\Debug\netcoreapp3.1\Prototype.Service.deps.json
+D:\Prototype\Prototype.Service\bin\Debug\netcoreapp3.1\Prototype.Service.dll
+D:\Prototype\Prototype.Service\bin\Debug\netcoreapp3.1\Prototype.Service.pdb
+D:\Prototype\Prototype.Service\obj\Debug\netcoreapp3.1\Prototype.Service.csprojAssemblyReference.cache
+D:\Prototype\Prototype.Service\obj\Debug\netcoreapp3.1\Prototype.Service.AssemblyInfoInputs.cache
+D:\Prototype\Prototype.Service\obj\Debug\netcoreapp3.1\Prototype.Service.AssemblyInfo.cs
+D:\Prototype\Prototype.Service\obj\Debug\netcoreapp3.1\Prototype.Service.dll
+D:\Prototype\Prototype.Service\obj\Debug\netcoreapp3.1\Prototype.Service.pdb
+D:\Prototype\Prototype.Service\bin\Debug\netcoreapp3.1\Prototype.Core.dll
+D:\Prototype\Prototype.Service\bin\Debug\netcoreapp3.1\Prototype.DatabaseMigration.dll
+D:\Prototype\Prototype.Service\bin\Debug\netcoreapp3.1\Prototype.Domain.dll
+D:\Prototype\Prototype.Service\bin\Debug\netcoreapp3.1\Prototype.Core.pdb
+D:\Prototype\Prototype.Service\bin\Debug\netcoreapp3.1\Prototype.DatabaseMigration.pdb
+D:\Prototype\Prototype.Service\bin\Debug\netcoreapp3.1\Prototype.Domain.pdb
+D:\Prototype\Prototype.Service\obj\Debug\netcoreapp3.1\Prototype.Service.csproj.CopyComplete

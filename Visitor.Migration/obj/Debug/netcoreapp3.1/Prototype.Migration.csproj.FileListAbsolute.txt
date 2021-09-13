@@ -1,0 +1,13 @@
+D:\Prototype\Prototype.Migration\bin\Debug\netcoreapp3.1\Prototype.Migration.deps.json
+D:\Prototype\Prototype.Migration\bin\Debug\netcoreapp3.1\Prototype.Migration.runtimeconfig.json
+D:\Prototype\Prototype.Migration\bin\Debug\netcoreapp3.1\Prototype.Migration.runtimeconfig.dev.json
+D:\Prototype\Prototype.Migration\bin\Debug\netcoreapp3.1\Prototype.Migration.dll
+D:\Prototype\Prototype.Migration\bin\Debug\netcoreapp3.1\Prototype.Migration.pdb
+D:\Prototype\Prototype.Migration\bin\Debug\netcoreapp3.1\Prototype.Domain.dll
+D:\Prototype\Prototype.Migration\bin\Debug\netcoreapp3.1\Prototype.Domain.pdb
+D:\Prototype\Prototype.Migration\obj\Debug\netcoreapp3.1\Prototype.Migration.csprojAssemblyReference.cache
+D:\Prototype\Prototype.Migration\obj\Debug\netcoreapp3.1\Prototype.Migration.AssemblyInfoInputs.cache
+D:\Prototype\Prototype.Migration\obj\Debug\netcoreapp3.1\Prototype.Migration.AssemblyInfo.cs
+D:\Prototype\Prototype.Migration\obj\Debug\netcoreapp3.1\Prototype.Migration.csproj.CopyComplete
+D:\Prototype\Prototype.Migration\obj\Debug\netcoreapp3.1\Prototype.Migration.dll
+D:\Prototype\Prototype.Migration\obj\Debug\netcoreapp3.1\Prototype.Migration.pdb
